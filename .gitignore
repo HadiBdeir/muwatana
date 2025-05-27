@@ -1,0 +1,15 @@
+# Ignore dependency folders
+node_modules/
+
+# Ignore build output if it's only generated during deploy
+build/
+dist/
+
+# Ignore cache directories that cause submodule issues
+node_modules/.cache/
+.gh-pages-cache/
+
+# Ignore logs and system files
+*.log
+.DS_Store
+.env
