@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import HomeScreen from "./HomeScreen";
 import ResourcesCyberSecurityAndPrivacy from "./Resources_CybersecurityAndPrivacy";
 import AccountProtectionScreen from "./Account_Protection_Screen";
