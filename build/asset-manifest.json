@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/muwatana/static/css/main.a143227a.css",
+    "main.js": "/muwatana/static/js/main.e6bb37d2.js",
+    "index.html": "/muwatana/index.html",
+    "main.a143227a.css.map": "/muwatana/static/css/main.a143227a.css.map",
+    "main.e6bb37d2.js.map": "/muwatana/static/js/main.e6bb37d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a143227a.css",
+    "static/js/main.e6bb37d2.js"
+  ]
+}
